@@ -2,8 +2,14 @@
 #Angela was here.
 
 <<<<<<< HEAD
+#Saman editted this
+#and this
+
+=======
+<<<<<<< HEAD
  #initialize variable
 =======
+>>>>>>> 8a363e490dbfa5e95f49de4e73e649e9248b2dfa
 # Julio A. Yanes
 # Subarna Barua
 #initialize variable
