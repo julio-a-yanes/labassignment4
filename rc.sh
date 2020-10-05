@@ -39,9 +39,7 @@ $reverse
 <<<<<<< HEAD
 #make tr case insensitive
 rc=`echo $reverse | tr 'atcgATCG' 'tagcTAGC'` 
-=======
-rc=`echo $reverse | tr '[:upper:]' '[:lower:]' | tr 'atcg' 'tagc'`
->>>>>>> f5920840176d29ffa9a0eeab7a41937ed3483041
+
 
 echo "$rc
 "
