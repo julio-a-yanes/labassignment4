@@ -46,7 +46,10 @@ $reverse
 #make tr case insensitive
 rc=`echo $reverse | tr 'atcgATCG' 'tagcTAGC'` 
 
+<<<<<<< HEAD
+=======
 >>>>>>> f5920840176d29ffa9a0eeab7a41937ed3483041
+>>>>>>> f47fb5bce6589c2f8083642f539be19581c12ad1
 
 echo "$rc
 "
