@@ -11,7 +11,7 @@
 =======
 >>>>>>> 8a363e490dbfa5e95f49de4e73e649e9248b2dfa
 # Julio A. Yanes
-
+# Subarna Barua
 #initialize variable
 >>>>>>> f5920840176d29ffa9a0eeab7a41937ed3483041
 reverse=""
@@ -45,8 +45,7 @@ $reverse
 <<<<<<< HEAD
 #make tr case insensitive
 rc=`echo $reverse | tr 'atcgATCG' 'tagcTAGC'` 
-=======
-rc=`echo $reverse | tr '[:upper:]' '[:lower:]' | tr 'atcg' 'tagc'`
+
 >>>>>>> f5920840176d29ffa9a0eeab7a41937ed3483041
 
 echo "$rc
