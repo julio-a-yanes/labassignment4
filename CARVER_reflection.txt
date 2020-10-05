@@ -1,0 +1,25 @@
+Angela's Reflection
+
+Prompt: Reflect on how you currently manage your documents and code, particularly content associated with
+publishable work. Would it stand up to a reproducibility test? How do you think non-reproducible research affects
+computational biology and bioinformatics? What about in your specific field of study?
+
+Currently, I have an organized file system for managing documents for graduate school. This is partially due to
+my advisor's request. He specified that I don't use spaces in my document name so that he can use the command line
+to open those documents. Additionally, he asked that I didn't say "final" on the end of my drafts of documents
+but rather just number drafts sequentially. I have come to agree that this is a better method so that I avoid file
+names like "Carver_proposal_FINALFINALREALLYFINAL.docx." 
+
+I don't yet have a lot of code, so I haven't had to try too hard to keep tabs on my versions of code. However, 
+I see how GitHub will become extremely useful to me for future work. This is especially true if I need to 
+make code presentable for publishing rather than just for me.
+
+Non-reproducible research is a detriment to computational biology and bioinformatics as well as any specific 
+subfield of biology, including my field of quantitative genetics. Because of this, version control becomes
+important. That way, you can keep track of changes you have made to your code and go back to various versions as
+needed for explanation of how you arrived at your final product. This can help others reproduce your 
+experiment.
+
+Additionally, github becomes important for sharing code with others. If they have access to your exact code,
+they can set up and run the same experiment. If it yields similar results, this would support your 
+conclusions in your work; it's good for you personally and for science as a whole.
