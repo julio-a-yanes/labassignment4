@@ -1,0 +1,11 @@
+Right now, I do not need to use any kinds of code for my work. As a 
+result, I have little/no experience on this version of coding and 
+document management. However, I have plan to use this technique in my 
+future work. 
+
+Reproducibility is an important parameter in computational 
+biology and bioinformatics. Retraction of publications in this sector 
+is happening a lot more than usual. In my field (Microbiology), 
+reproducibility crisis also happens. As a result, researcher cannot 
+recreate their work or arrive the same conclusions makes it difficult 
+to validate the original work.
