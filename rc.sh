@@ -1,5 +1,7 @@
 #! /bin/sh
 
+# Julio A. Yanes
+
 #initialize variable
 reverse=""
 
