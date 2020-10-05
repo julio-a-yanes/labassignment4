@@ -1,11 +1,19 @@
 #! /bin/sh
+#Angela was here.
 
+<<<<<<< HEAD
 #Saman editted this
 #and this
 
+=======
+<<<<<<< HEAD
+ #initialize variable
+=======
+>>>>>>> 8a363e490dbfa5e95f49de4e73e649e9248b2dfa
 # Julio A. Yanes
 
 #initialize variable
+>>>>>>> f5920840176d29ffa9a0eeab7a41937ed3483041
 reverse=""
 
 #read in data
@@ -15,22 +23,31 @@ sequence=`grep -v ">" $1`
 echo "Name: $name"
 
 #calculate length of sequence
-len=${#sequence}
+#len=${#sequence}
 
-echo "Length: $len"
+#echo "Length: $len"
+
+#convert loop into single line which converts to reverse complement
+reverse=`rev $sequence` 
+
 
 #loop through sequence in reverse
-for (( i=$len; i>=0; i-- ))
-do
-    reverse="$reverse${sequence:$i:1}"
-done
+#for (( i=$len; i>=0; i-- ))
+#do
+#    reverse="$reverse${sequence:$i:1}"
+#done
 
 echo "$sequence
 $reverse
 "
 
 #complement sequence
+<<<<<<< HEAD
+#make tr case insensitive
+rc=`echo $reverse | tr 'atcgATCG' 'tagcTAGC'` 
+=======
 rc=`echo $reverse | tr '[:upper:]' '[:lower:]' | tr 'atcg' 'tagc'`
+>>>>>>> f5920840176d29ffa9a0eeab7a41937ed3483041
 
 echo "$rc
 "
