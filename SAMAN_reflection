@@ -1,0 +1,6 @@
+I mostly use cloud based services like google docs and overleaf for documents. For coding, I either make some local structure to save the different versions of the code, or I use cloud base services like google colab or google drive. However, I have realized how more efficient it would be to use github, in order to contribute to other projects, or share your own project with others.
+
+Computational biology and bioinformatics research usually involves working with very large datasets. When the dataset is very large, there would usually be some random selections or simulations. Therefore, the performance of an algorithm is usually described statistically. In order to make sure that a research code is working correctly, one needs to run the code and probably the simulation parts again. I think the non-reproducible research would make it hard to test if a result is trustable or there are some mistakes involved.
+
+In deep learning, as in many other areas the codes are very modular. To an extent, some parts are completely independent. In this kind of research, one of the most common ways of contribution, is by improving the final results just by making one module more efficient. Sometimes researchers use the pretrained models of each other for some modules, rather than training the whole model by themselves.
+
