@@ -1,0 +1,17 @@
+I manage my documents and code using a structure file storage system in 
+dropbox. Although I take care to label files using informative names, 
+organize files in a way that makes sense, and create copies of 
+experimental code versions to avoid overwriting originals, I have had 
+situations where code has gone missing, where files were saved/stored 
+incorrectly, and where I've had to search for previous versions of 
+files/directories on the dropbox website. Importantly, I do not think 
+these systems are robust and reproducbible.
+
+I believe that non-reproducible practices hinder computational biology 
+and bioinformatics. Specifically, such practices make it difficult to 
+evaluate the merit of new work presented. Moreover, not having access 
+to data and code makes replication impossible, which should be at the 
+core of the scientific process. This is also true in cognitive 
+neuroscience, my chosen field of study. Having completed this 
+assignment, I am enthusasitc about incorporating these tools into my 
+science.
