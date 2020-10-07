@@ -1,3 +1,0 @@
-I have still not created any scripts which I am confident about but because of intro to computational biology and furhter courses like scripting will help me develop my skills and there is good possiblity that I can use github to share my scripts. 
-If we compare reproducibility, even though some research paper got results its difficult to recreate those same results because of various parameters in any feild of research Also in computational biology many scriots available maynot give a correct output.
-Therefore it is very important that yous share the results with your peers which can give reproducible results as it can be very detrimental to the research.
